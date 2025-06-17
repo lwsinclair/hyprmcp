@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/stefanoamorelli-hyprmcp-badge.png)](https://mseep.ai/app/stefanoamorelli-hyprmcp)
+
 <div align="center">
 
 # Hyprland MCP Server
